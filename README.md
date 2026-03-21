@@ -1,4 +1,6 @@
 # PSK & QPSK
+# REG NO:212224060266
+# NAME: SUJITHA ESTHER S
 # Aim
 Write a simple Python program for the modulation and demodulation of PSK and QPSK.
 # Tools required
